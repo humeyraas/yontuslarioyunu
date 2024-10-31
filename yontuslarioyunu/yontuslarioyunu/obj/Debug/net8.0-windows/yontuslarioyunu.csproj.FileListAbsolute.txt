@@ -1,0 +1,16 @@
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\bin\Debug\net8.0-windows\yontuslarioyunu.exe
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\bin\Debug\net8.0-windows\yontuslarioyunu.deps.json
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\bin\Debug\net8.0-windows\yontuslarioyunu.runtimeconfig.json
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\bin\Debug\net8.0-windows\yontuslarioyunu.dll
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\bin\Debug\net8.0-windows\yontuslarioyunu.pdb
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\obj\Debug\net8.0-windows\yontuslarioyunu.Form1.resources
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\obj\Debug\net8.0-windows\yontuslarioyunu.csproj.GenerateResource.cache
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\obj\Debug\net8.0-windows\yontuslarioyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\obj\Debug\net8.0-windows\yontuslarioyunu.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\obj\Debug\net8.0-windows\yontuslarioyunu.AssemblyInfo.cs
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\obj\Debug\net8.0-windows\yontuslarioyunu.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\obj\Debug\net8.0-windows\yontuslarioyunu.dll
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\obj\Debug\net8.0-windows\refint\yontuslarioyunu.dll
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\obj\Debug\net8.0-windows\yontuslarioyunu.pdb
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\obj\Debug\net8.0-windows\yontuslarioyunu.genruntimeconfig.cache
+C:\Users\casper\source\repos\yontuslarioyunu\yontuslarioyunu\obj\Debug\net8.0-windows\ref\yontuslarioyunu.dll
